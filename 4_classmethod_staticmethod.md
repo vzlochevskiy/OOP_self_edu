@@ -122,15 +122,15 @@ print("Vector.norm2 to (5, 6) is ",
 
 - `without @...`  - могут использовать атрибуты объекта, класса и принимать внешние атрибуты
 ```python
-  def __init__(self, x, y): ...
+def __init__(self, x, y): ...
 ```
 ```python
-  def get_coord(self): ...
+def get_coord(self): ...
 ```
 - `@classmethod`  - могут использовать атрибуты класса и принимать внешние атрибуты
 ```python
-    @classmethod
-    def validate(cls, arg):
+@classmethod
+def validate(cls, arg):
 ```
 - `@staticmethod` - могут использовать только внешние атрибуты
 ```python
