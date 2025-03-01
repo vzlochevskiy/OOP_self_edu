@@ -1,3 +1,9 @@
+Конспекты уроков по курсу [Сергея Балакирева](www.youtube.com/@selfedu_rus) 
+
+[youtube playlist](https://www.youtube.com/playlist?list=PLA0M1Bcd0w8zPwP7t-FgwONhZOHt9rz9E)
+
+[курс по ООП на stepik](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEpZdWwwTzVVc3JFcm1TblRwV2k0Y1YyVTF0QXxBQ3Jtc0tuR2FtUWNPRXQzaUhkYzl0dFpmR0xobWhtZzBNcnM2WkpWVmJGRlJmWVh1Y1NYX2MtYmM1REp0eVZtaXMyaTV4LUtua3pFQU9BRFBwT2xNV0JkM0RsRHZBb3FUdXZQVk03TXAtQURHT0N0di1VeDJrUQ&q=https%3A%2F%2Fstepik.org%2Fa%2F116336&v=Z7AY41tE-3U)
+
 # Концепция ООП
 
 > ООП - объектно-ориентированное программирование
