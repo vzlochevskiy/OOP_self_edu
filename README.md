@@ -31,6 +31,7 @@
 **Магические методы - double-underscored (dunder-methods)**\
 - [`__init__, _del__`](3_dunder_methods.md#инициализатор-и-финализатор)
 - [`__new__`](3_dunder_methods.md#реализация-паттерна-singleton)
+- [`__setattr__, __getattribute__, __getattr__ и __delattr__`](3_dunder_methods.md#доступ-к-атрибутам-объекта-__setattr__-__getattribute__-__getattr__-и-__delattr__)
 
 ### Области видимости методов классов. Декораторы `@classmethod` и `@staticmethod`
 [py-file](4_classmethod_staticmethod.py)
